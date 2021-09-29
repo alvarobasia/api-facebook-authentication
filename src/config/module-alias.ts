@@ -1,4 +1,4 @@
-import { addAlias } from "module-alias/index";
-import { resolve } from "path";
+import { addAlias } from 'module-alias/index'
+import { resolve } from 'path'
 
-addAlias("@", resolve("dist"));
+addAlias('@', resolve('dist'))
